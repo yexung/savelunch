@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/272cbab1-222a-43d0-9021-d6e382bb3a32)### SAVE LUNCH
+### SAVE LUNCH
 
 한국 코드페어 출품작 
 
